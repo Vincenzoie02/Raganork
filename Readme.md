@@ -34,11 +34,11 @@
 
 <div>
 
-<a href="https://heroku.com/deploy?template=https://github.com/bot-repo/deployer-two.git" target="blank"><img align="center" src="https://i.imgur.com/ofq7Mds.jpegvg.png" height="30" width="130" /></a>
+<a href="https://heroku.com/deploy?template=" target="blank"><img align="center" src="https://i.imgur.com/ofq7Mds.jpegvg.png" height="30" width="130" /></a>
 
 <div>
 
-<a href="https://heroku.com/deploy?template=https://github.com/bot-repo/deployer-three.git" target="blank"><img align="center" src="https://i.imgur.com/XIJTK7W.jpeg" height="30" width="130" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Vincenzoie02/deployer-two.git" target="blank"><img align="center" src="https://i.imgur.com/XIJTK7W.jpeg" height="30" width="130" /></a>
 
 <div>
 
